@@ -1,0 +1,14 @@
+StudyFlow
+A light-weight, open-source task and project management tool designed specifically for university students or academic teams.
+
+University students often have to manage multiple courses, deadlines, and group projects without a tool designed for academic workflows. There are some different platforms but they are either too generic, require paid features for automation, or aren’t prepared for student needs.
+
+StudyFlow aims to fill that gap by providing an intuitive, customizable and self-hosted task management solution built for students, by students.
+
+With StudyFlow you can create task boards for each course or group project, collaborate through comments or activity tracking while you also have automatic reminders and deadlines, academic calendar integration and a simple and clean interface.
+
+About the Development Tools, the backend is built by Java, Spring (Controllers + DAO Layer), the frontend USES Thymeleaf and Bootstrap the database will be PostgreSQL and the Development Tools will be IntelliJ IDEA, Git + GitHub and GitHub Projects & Issues.
+
+License
+
+This project is licensed under the Apache 2.0 License – see the LICENSE.md file for details.
