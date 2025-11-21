@@ -1,11 +1,15 @@
-Open Study
-- An open-source collaboration platform for students and academic teams.
+# StudyFlow
 
-Features:
-- Create and manage multiple tasks
-- Add tasks, comments and deadlines
-- Sync with academic calendars
-- View team progress and statistics
+StudyFlow is an open-source front-end web application designed to help students organize study materials, track progress, and improve productivity.
 
-License
-- This project is licensed under the MIT License
+## Project Status
+This is the skeleton structure for version **v0.0.1**.
+
+## Folder Structure
+- `public/` — HTML & CSS files  
+- `src/` — JavaScript code (Empty for skeleton version) 
+- `docs/` — documentation  
+- Root files — license, contribution guides, etc.
+
+## Contributing
+See `CONTRIBUTING.md` for guidelines.
