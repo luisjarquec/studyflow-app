@@ -13,3 +13,6 @@ This is the skeleton structure for version **v0.0.1**.
 
 ## Contributing
 See `CONTRIBUTING.md` for guidelines.
+
+## Documentation
+Full documentation is available at [ReadTheDocs](https://studyflow-app.readthedocs.io/).
