@@ -1,0 +1,24 @@
+title: StudyFlow
+description: Organize your study workflow efficiently.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+theme: null
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+navigation:
+  - title: Home
+    url: /
+  - title: Features
+    url: /features/
+  - title: Community
+    url: /community/
+  - title: Contact
+    url: /contact/
+  - title: Docs
+    url: https://studyflow-app.readthedocs.io/
+  - title: GitHub
+    url: https://github.com/luisjarquec/studyflow-app
