@@ -16,24 +16,17 @@ Connect with other students and developers building StudyFlow.
             <p>Ask questions, share ideas, and discuss features.</p>
         </div>
     </a>
-    <a href="#" class="community-card">
+    <a href="https://discord.gg/v2ctzYdp" class="community-card">
         <i class="fab fa-discord fa-2x"></i>
         <div>
             <h3>Discord Server</h3>
             <p>Chat in real-time with the community.</p>
         </div>
     </a>
-    <a href="#" class="community-card">
-        <i class="fab fa-slack fa-2x"></i>
-        <div>
-            <h3>Slack Workspace</h3>
-            <p>Collaborate with contributors.</p>
-        </div>
-    </a>
-    <a href="#" class="community-card">
+    <a href="https://groups.google.com/g/study-flow-app#" class="community-card">
         <i class="fas fa-envelope fa-2x"></i>
         <div>
-            <h3>Mailing List</h3>
+            <h3>Google Group</h3>
             <p>Subscribe for announcements and updates.</p>
         </div>
     </a>
