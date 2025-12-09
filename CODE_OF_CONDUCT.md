@@ -36,7 +36,7 @@ This Code of Conduct applies within all community spaces, and also applies when 
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by emailing [luis.jarquec@gmail.com](mailto:luis.jarquec@gmail.com) or by opening a confidential issue on our GitHub repository.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement by emailing [conduct@studyflow.example.com](mailto:conduct@studyflow.example.com) or by opening a confidential issue on our GitHub repository.
 
 All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the reporter of any incident.
