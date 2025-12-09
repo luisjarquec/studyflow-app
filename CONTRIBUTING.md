@@ -33,7 +33,17 @@ We love new ideas! If you have a suggestion for a new feature or an improvement 
 
 ## Development Setup
 
-To set up your development environment:
+### Prerequisites
+
+- **Ruby** 2.7+ (for Jekyll website)
+- **Bundler** (for managing Ruby gems)
+- **Node.js** 16+ and **npm** (for future JavaScript development)
+- **Git**
+- **Text Editor/IDE** (VS Code, Sublime Text, etc.)
+
+### Setting Up the Jekyll Website
+
+The `website/` directory contains the Jekyll-based marketing site for StudyFlow.
 
 1. **Clone the repository**:
    ```bash
@@ -41,18 +51,53 @@ To set up your development environment:
    cd studyflow-app
    ```
 
-2. **Install dependencies**:
+2. **Navigate to the website directory**:
+   ```bash
+   cd website
+   ```
+
+3. **Install Jekyll and dependencies**:
+   ```bash
+   gem install jekyll bundler
+   bundle install
+   ```
+
+4. **Run the Jekyll development server**:
+   ```bash
+   bundle exec jekyll serve
+   ```
+
+5. **Access the website**:
+   Open your browser and navigate to `http://localhost:4000`
+
+### Setting Up the Application (Future Development)
+
+For contributing to the main StudyFlow application in the `src/` and `public/` directories:
+
+1. **Install dependencies**:
    ```bash
    npm install
    ```
 
-3. **Start the development server**:
+2. **Start the development server**:
    ```bash
    npm run dev
    ```
 
-4. **Access the application**:
+3. **Access the application**:
    Open your browser and navigate to `http://localhost:3000`
+
+### Building Documentation
+
+To build the Sphinx documentation:
+
+```bash
+# On Windows
+.\make html
+
+# On Unix/Mac
+make html
+```
 
 For additional setup details or troubleshooting, refer to the main [README.md](README.md).
 
@@ -119,14 +164,15 @@ We follow the Conventional Commits specification. Please use the following forma
 ```
 
 **Type examples:** `feat`, `fix`, `docs`, `style`, `refactor`, `test`, `chore`.
-**Scope examples:** `frontend`, `backend`, `auth`, `ui`, `docs`, `build`.
+**Scope examples:** `website`, `docs`, `ui`, `config`, `build`, `deps`.
 
 **Examples:**
 
-*   `feat(auth): Add user registration endpoint`
-*   `fix(frontend): Correct typo in login form`
+*   `feat(website): Add features page with Kanban board showcase`
+*   `fix(website): Correct navigation links in mobile view`
 *   `docs(readme): Update installation instructions`
-*   `chore(deps): Upgrade React to v18`
+*   `style(website): Improve dark mode color contrast`
+*   `chore(deps): Update Jekyll to v4.3.0`
 
 ---
 
