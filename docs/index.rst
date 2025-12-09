@@ -3,12 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-StudyFlow App documentation
-===========================
+StudyFlow Documentation
+========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Welcome to StudyFlow!
+---------------------
+
+StudyFlow is the ultimate open-source task management tool designed by students, for students. 
+Organize courses, track deadlines, and collaborate seamlessly.
+
+**Master Your Academic Life**
+
+University students often have to manage multiple courses, deadlines, and group projects without 
+a tool designed for academic workflows. StudyFlow fills that gap by providing an intuitive, 
+customizable, and self-hosted task management solution built specifically for students.
 
 
 .. toctree::
