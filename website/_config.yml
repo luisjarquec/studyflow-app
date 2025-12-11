@@ -1,7 +1,7 @@
 title: StudyFlow
 description: Organize your study workflow efficiently.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/studyflow-app" # the subpath of your site, e.g. /blog
+url: "https://luisjarquec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 theme: null
 
 markdown: kramdown
